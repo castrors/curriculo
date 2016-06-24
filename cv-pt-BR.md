@@ -39,6 +39,8 @@ Aplicativo do evento Javaneiros que indicou o horário e localização das pales
 
 ---
 ## Favoritos
+#### IDE
+IntelliJ (Android Studio && RubyMine)
 #### Editor de Texto
 Subilme Text
 #### Sistema Operacional

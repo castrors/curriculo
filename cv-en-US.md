@@ -39,6 +39,8 @@ Javaneiros event application that indicates the time and location of the talks.
 
 ---
 ## Favorites
+#### IDE
+IntelliJ (Android Studio && RubyMine)
 #### Text Editor
 Subilme Text
 #### Operational System
