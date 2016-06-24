@@ -1,4 +1,3 @@
-
 # ![avatar][] Rodrigo de Souza Castro
 
 ---
@@ -13,7 +12,7 @@
 
 ---
 ## Experiência
-#### Programador @ Rede Tendência &emsp; <small>*Janeiro 2016 - Atual*</small>
+#### Programador @ Rede Tendência &emsp; <small>*Janeiro de 2016 - Atual*</small>
 `Android`, `Webservices`, `Oracle SQL Server`
 > Desenvolvo melhorias e evoluções para os aplicativos da empresa, com foco principal no Sistema de Gestão de Vendas, que é uma ferramenta de trabalho dos consultores, possibilitando que eles visitem estabelecimentos e faça venda de produtos tudo controlado pelo aplicativo.
 
@@ -23,13 +22,13 @@
 > Desenvolvimento de sistemas para Startups, sendo a maioria MVP(Produto minimo viável). Atuação no desenvolvimento de aplicativos de táxi, manejo de bovinos, correspondentes jurídicos entre outros.
 
 ---
-#### Professor Substituto @ UFMS - CPCX - Coxim - MS - Brasil &emsp; <small>*Agosto de 2013 - Março de 2014*</small>
+#### Professor Substituto @ UFMS/CPCX &emsp; <small>*Agosto de 2013 - Março de 2014*</small>
 `Android`, `Java`
 > Ministrei as disciplinas: Engenharia de Software I; Laboratório de Desenvolvimento de Sistemas Orientado a Objetos - Desenvolvimento de Aplicativos Android; e Tópicos em Programação Orientada a Objetos.
 
 ---
 ## Educação
-#### Sistemas de Informação - UFMS - Coxim - MS - Brasil &emsp; <small>*2009 - 2013*</small>
+#### Sistemas de Informação @ UFMS/CPCX - Coxim - MS - Brasil &emsp; <small>*2009 - 2013*</small>
 `C`, `Java`, `Android`
 > No segundo ano de faculdade, juntamente com um professor recém chegado do mercado de trabalho abrimos uma fábrica de software, a Talent Warehouse. Foi onde pude sentir na pele a realidade do que é requisitado fora da vida acadêmica de um desenvolvedor de software profissional.
 
@@ -46,6 +45,8 @@ Subilme Text
 Linux Mint
 #### Terminal
 Oh-my-zsh
+#### Podcast
+NerdCast
 
 ---
 [avatar]: http://0.gravatar.com/avatar/8dd7b07e3405e5d5de84058dddf8f5f8?s=240
