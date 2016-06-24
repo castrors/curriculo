@@ -12,7 +12,7 @@
 
 
 ---
-## Experience
+## Experiência
 #### Programador @ Rede Tendência &emsp; <small>*Janeiro 2016 - Atual*</small>
 `Android`, `Webservices`, `Oracle SQL Server`
 > Desenvolvo melhorias e evoluções para os aplicativos da empresa, com foco principal no Sistema de Gestão de Vendas, que é uma ferramenta de trabalho dos consultores, possibilitando que eles visitem estabelecimentos e faça venda de produtos tudo controlado pelo aplicativo.
@@ -28,7 +28,7 @@
 > Ministrei as disciplinas: Engenharia de Software I; Laboratório de Desenvolvimento de Sistemas Orientado a Objetos - Desenvolvimento de Aplicativos Android; e Tópicos em Programação Orientada a Objetos.
 
 ---
-## Education
+## Educação
 #### Sistemas de Informação - UFMS - Coxim - MS - Brasil &emsp; <small>*2009 - 2013*</small>
 `C`, `Java`, `Android`
 > No segundo ano de faculdade, juntamente com um professor recém chegado do mercado de trabalho abrimos uma fábrica de software, a Talent Warehouse. Foi onde pude sentir na pele a realidade do que é requisitado fora da vida acadêmica de um desenvolvedor de software profissional.
@@ -39,10 +39,10 @@
 Aplicativo do evento Javaneiros que indicou o horário e localização das palestras.
 
 ---
-## Favorites
-#### Editor
+## Favoritos
+#### Editor de Texto
 Subilme Text
-#### Operating System
+#### Sistema Operacional
 Linux Mint
 #### Terminal
 Oh-my-zsh
