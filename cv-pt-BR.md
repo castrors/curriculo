@@ -1,5 +1,4 @@
-# ![avatar]
-# Rodrigo de Souza Castro
+# ![avatar][] Rodrigo de Souza Castro
 
 ---
 
@@ -45,15 +44,15 @@ Aplicativo simples feito em Android usando a arquitetura MVP.
 ---
 ## Favoritos
 #### IDE
-IntelliJ (Android Studio && RubyMine)
+`IntelliJ` (`Android Studio` e `RubyMine`)
 #### Editor de Texto
-Atom
+`Atom`
 #### Sistema Operacional
-macOS e Linux Mint
+`macOS` e `Linux Mint`
 #### Terminal
-Oh-my-zsh
+`Oh-my-zsh`
 #### Podcast
-NerdCast, DevNaEstrada, Loop Matinal e Hipsters
+`NerdCast`, `DevNaEstrada`, `Loop Matinal` e `Hipsters`
 
 ---
 [avatar]: http://0.gravatar.com/avatar/8dd7b07e3405e5d5de84058dddf8f5f8?s=240

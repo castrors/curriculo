@@ -1,5 +1,4 @@
-# ![avatar]
-# Rodrigo de Souza Castro
+# ![avatar][] Rodrigo de Souza Castro
 
 ---
 
@@ -8,7 +7,7 @@
 > `Mobile technologies and solutions`
 
 ---
-> **"** Programmer interessed in mobile solutions and werables. I have one startup of finances control. I like to ride bike and listen to podcasts on my idle hours.
+> **"** Programmer interessed in mobile solutions and wearables. I have one startup of finances control. I like to ride bike and listen to podcasts on my idle hours.
 
 
 ---
@@ -44,15 +43,15 @@ Simple pomodoro app build with MVP architecture on Android.
 ---
 ## Favorites
 #### IDE
-IntelliJ (Android Studio && RubyMine)
+`IntelliJ` (`Android Studio` and `RubyMine`)
 #### Text Editor
-Atom
+`Atom`
 #### Operational System
-macOS and Linux Mint
+`macOS` and `Linux Mint`
 #### Terminal
-Oh-my-zsh
+`Oh-my-zsh`
 #### Podcast
-NerdCast, DevNaEstrada, Loop Matinal and Hipsters
+`NerdCast`, `DevNaEstrada`, `Loop Matinal` and `Hipsters`
 
 ---
 [avatar]: http://0.gravatar.com/avatar/8dd7b07e3405e5d5de84058dddf8f5f8?s=240
