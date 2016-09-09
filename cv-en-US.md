@@ -1,4 +1,5 @@
-# ![avatar][] Rodrigo de Souza Castro
+# ![avatar]
+# Rodrigo de Souza Castro
 
 ---
 
@@ -37,18 +38,21 @@
 #### [Javaneiros 2015](https://github.com/castrors/Javaneiros2015)
 Javaneiros event application that indicates the time and location of the talks.
 
+#### [Pomodoro](https://github.com/castrors/pomodoro)
+Simple pomodoro app build with MVP architecture on Android.
+
 ---
 ## Favorites
 #### IDE
 IntelliJ (Android Studio && RubyMine)
 #### Text Editor
-Subilme Text
+Atom
 #### Operational System
-Linux Mint
+macOS and Linux Mint
 #### Terminal
 Oh-my-zsh
 #### Podcast
-NerdCast
+NerdCast, DevNaEstrada, Loop Matinal and Hipsters
 
 ---
 [avatar]: http://0.gravatar.com/avatar/8dd7b07e3405e5d5de84058dddf8f5f8?s=240

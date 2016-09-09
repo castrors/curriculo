@@ -1,4 +1,5 @@
-# ![avatar][] Rodrigo de Souza Castro
+# ![avatar]
+# Rodrigo de Souza Castro
 
 ---
 
@@ -8,6 +9,7 @@
 
 ---
 > **"** Programador interessado por soluções móveis e vestíveis. Tenho uma startup de controle de finanças. Gosto de dar uma volta de bicicleta e escutar podcasts nas horas vagas.
+
 
 
 ---
@@ -37,18 +39,21 @@
 #### [Javaneiros 2015](https://github.com/castrors/Javaneiros2015)
 Aplicativo do evento Javaneiros que indicou o horário e localização das palestras.
 
+#### [Pomodoro](https://github.com/castrors/pomodoro)
+Aplicativo simples feito em Android usando a arquitetura MVP.
+
 ---
 ## Favoritos
 #### IDE
 IntelliJ (Android Studio && RubyMine)
 #### Editor de Texto
-Subilme Text
+Atom
 #### Sistema Operacional
-Linux Mint
+macOS e Linux Mint
 #### Terminal
 Oh-my-zsh
 #### Podcast
-NerdCast
+NerdCast, DevNaEstrada, Loop Matinal e Hipsters
 
 ---
 [avatar]: http://0.gravatar.com/avatar/8dd7b07e3405e5d5de84058dddf8f5f8?s=240
