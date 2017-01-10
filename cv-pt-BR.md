@@ -1,9 +1,14 @@
-# ![avatar][] Rodrigo de Souza Castro
+#Rodrigo de Souza Castro
 
 ---
 
 > #### Mobile Software Developer
-> #####  Campo Grande - MS - Brasil &emsp; [castrodev.com/][homepage] &emsp; [@rodrigocastro_o][twitter] ![twit][]
+> #####  São Paulo - SP - Brasil 
+> ##### rodrigodesouzacastro@gmail.com
+> ##### +55 (67) 99926 8257
+> ##### [castrodev.com/][homepage] 
+> ##### [GitHub][github]
+> ##### [LinkedIn][linkedin]
 > `Tecnologias e soluções móveis`
 
 ---
@@ -13,9 +18,14 @@
 
 ---
 ## Experiência
-#### Programador @ Rede Tendência &emsp; <small>*Janeiro de 2016 - Atual*</small>
+#### Desenvolvedor de Aplicações @ IBM &emsp; <small>*Dezembro 2016 - Atual*</small>
+`Android`, `Java`, `AAR`
+> Desenvolvimento de um módulo de chat que será aplicado ao aplicativo principal do Banco Santander. Uma ferramenta de chat desenvolvida com Android nativo, possibilitando o envio de arquivos entre outras funcionalidades.
+
+---
+#### Programador @ Rede Tendência &emsp; <small>*Janeiro de 2016 - Novembro de 2016*</small>
 `Android`, `Webservices`, `Oracle SQL Server`
-> Desenvolvo melhorias e evoluções para os aplicativos da empresa, com foco principal no Sistema de Gestão de Vendas, que é uma ferramenta de trabalho dos consultores, possibilitando que eles visitem estabelecimentos e faça venda de produtos tudo controlado pelo aplicativo.
+> Desenvolvimento de melhorias e evoluções para os aplicativos da empresa, com foco principal no Sistema de Gestão de Vendas, que é uma ferramenta de trabalho dos consultores, possibilitando que eles visitem estabelecimentos e faça venda de produtos tudo controlado pelo aplicativo.
 
 ---
 #### Programador @ Jera &emsp; <small>*Junho de 2014 - Outubro de 2015*</small>
@@ -35,6 +45,12 @@
 
 ---
 ## Open Source
+#### [PopularMovies](https://github.com/castrors/PopularMovies)
+Aplicativo de listagem de filmes consome os dados do site TMDB (The movie database). Utiliza recursos nativos android tais como ContentProviders, SyncAdapter e possui o layout otimizado para smartphones e tablets.
+
+#### [Javaneiros 2016](https://github.com/castrors/javaneiros-site-16)
+Site do evento Javanerios feito em Polymer e publicado no Firebase.
+
 #### [Javaneiros 2015](https://github.com/castrors/Javaneiros2015)
 Aplicativo do evento Javaneiros que indicou o horário e localização das palestras.
 
@@ -55,7 +71,6 @@ Aplicativo simples feito em Android usando a arquitetura MVP.
 `NerdCast`, `DevNaEstrada`, `Loop Matinal` e `Hipsters`
 
 ---
-[avatar]: http://0.gravatar.com/avatar/8dd7b07e3405e5d5de84058dddf8f5f8?s=240
 [homepage]: http://castrodev.com/
-[twitter]: https://twitter.com/rodrigocastro_o
-[twit]: http://cdn-careers.sstatic.net/careers/Img/icon-twitter.png?v=b1bd58ad2034
+[github]: https://github.com/castrors
+[linkedin]: https://br.linkedin.com/in/castrodev
