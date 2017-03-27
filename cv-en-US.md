@@ -1,17 +1,29 @@
-# ![avatar][] Rodrigo de Souza Castro
+# Rodrigo de Souza Castro
 
 ---
 
 > #### Mobile Software Developer
-> #####  Campo Grande - MS - Brazil &emsp; [castrodev.com/][homepage] &emsp; [@rodrigocastro_o][twitter] ![twit][]
-> `Mobile technologies and solutions`
+> #####  São Paulo - SP - Brazil
+> ##### rodrigodesouzacastro@gmail.com
+> ##### +55 (11) 94399 5279
+> ##### [castrodev.com/][homepage]
+> ##### [GitHub][github]
+> ##### [LinkedIn][linkedin]
 
+---
+> `Mobile technologies and solutions`
 ---
 > **"** Programmer interessed in mobile solutions and wearables. I have one startup of finances control. I like to ride bike and listen to podcasts on my idle hours.
 
 
+
 ---
 ## Experience
+#### Application Developer @ IBM &emsp; <small>*December 2016 - Current*</small>
+`Android`, `Java`, `AAR`
+> Development of a chat module that will be applied to the main application of Banco Santander. A chat tool developed with native Android, allowing the sending of files among other features.
+---
+
 #### Mobile Software Developer @ Rede Tendência &emsp; <small>*January 2016 - Current*</small>
 `Android`, `Webservices`, `Oracle SQL Server`
 > I Develop improvements and evolutions to the company apps, with a primary focus on the Sales Management System, which is a work tool to the consultants, enabling them to visit establishments and make sales, everything controlled by the application.
@@ -25,8 +37,8 @@
 #### Substitute Teacher @ UFMS/CPCX &emsp; <small>*August 2013 - March 2014*</small>
 `Android`, `Java`
 > Taught disciplines: Software Engineering I; Systems Development Laboratory Object Oriented - Android Application Development; and Topics in Object Oriented Programming.
-
 ---
+
 ## Education
 #### Information Systems @ UFMS/CPCX - Coxim - MS - Brazil &emsp; <small>*2009 - 2013*</small>
 `C`, `Java`, `Android`
@@ -34,11 +46,17 @@
 
 ---
 ## Open Source
+#### [PopularMovies](https://github.com/castrors/PopularMovies)
+The movie listing application consumes the data from the TMDB (The movie database) site. It uses native android features such as ContentProviders, SyncAdapter, and has the optimized layout for smartphones and tablets.
+
+#### [Javaneiros 2016](https://github.com/castrors/javaneiros-site-16)
+Javanerios event site made in Polymer and published on Firebase.
+
 #### [Javaneiros 2015](https://github.com/castrors/Javaneiros2015)
-Javaneiros event application that indicates the time and location of the talks.
+Application of the event Javaneiros that indicated the time and location of the lectures.
 
 #### [Pomodoro](https://github.com/castrors/pomodoro)
-Simple pomodoro app build with MVP architecture on Android.
+Simple application made in Android using MVP architecture.
 
 ---
 ## Favorites
@@ -54,7 +72,8 @@ Simple pomodoro app build with MVP architecture on Android.
 `NerdCast`, `DevNaEstrada`, `Loop Matinal` and `Hipsters`
 
 ---
-[avatar]: http://0.gravatar.com/avatar/8dd7b07e3405e5d5de84058dddf8f5f8?s=240
 [homepage]: http://castrodev.com/
-[twitter]: https://twitter.com/rodrigocastro_o
-[twit]: http://cdn-careers.sstatic.net/careers/Img/icon-twitter.png?v=b1bd58ad2034
+[github]: https://github.com/castrors
+[linkedin]: https://br.linkedin.com/in/castrodev
+
+---
